@@ -2,6 +2,6 @@
 
 <div align="center">
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godic97)](https://github.com/godic97/github-readme-stats)
+[![godic97's GitHub stats](https://github-readme-stats.vercel.app/api?username=godic97&show_icons=true&theme=tokyonight)](https://github.com/godic97/github-readme-stats)
  
 </div>
