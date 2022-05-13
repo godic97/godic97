@@ -14,7 +14,7 @@
 
 ## Tech Stack 💻
 
-<img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white"> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white"/> <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white"> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white"/> <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white"/> <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlo&logoColor=white"/> <img alt="php" src ="https://img.shields.io/badge/php-777BB4.svg?logo=php&logoColor=white"/> <img alt="java" src ="https://img.shields.io/badge/java-007396.svg?logo=java&logoColor=white"/>
 
 
 
