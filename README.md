@@ -6,6 +6,11 @@
 * 무아지경
 * 더도 말고 덜도 말고 딱 한 만큼만
 
+## 🥅 Goals
+* Love & Peace
+* Papers in SCI
+* A Head of Dragon
+
 ## 🤸 Before 
 * PNU CSE (2016.03 ~ 2021.02)
 
