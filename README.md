@@ -11,7 +11,7 @@
 
 ## CURRENT
 * PNU AI (2021.03 ~ )
-* PNU MLB LAB (2020.07 ~ )
+* PNU MLB Lab (2020.07 ~ )
 
 ## Tech Stack 💻
 
