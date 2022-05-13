@@ -27,7 +27,7 @@
 * Human Following Robot using Kinect Sensor
 * Ocene Drone using Zigbee
 * Fitravel - Personal Travel Planner using Fitness Data In Fitbit
-* HOTBuS(Hakathon Online Team BUilding System)
+* HOTBuS - Hakathon Online Team BUilding System
 * Korean Bussiness Name Generator using LSTM
 * Aptamer-Protein Interaction Prediction using Transformer
 
