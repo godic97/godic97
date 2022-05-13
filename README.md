@@ -1,4 +1,4 @@
-# INCHEOL SHIN
+# INCHEOL SHIN 😵
 
 
 ## VALUES
@@ -10,13 +10,11 @@
 * PNU CSE (2016.03 ~ 21.02)
 
 ## CURRENT
-
 * PNU AI (2021.03 ~ )
-
-
 
 ## Tech Stack 💻
 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 
 ## Tools 🔨
