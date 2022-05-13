@@ -13,6 +13,7 @@
 
 ## 🤸 Before 
 * PNU CSE (2016.03 ~ 2021.02)
+* PNU MCRG(MicroComputer Research Group) (2016.03 ~ 2021.02)
 
 ## 🏃‍♂️ Current 
 * PNU AI (2021.03 ~ )
