@@ -25,7 +25,7 @@
 
 ## 📽️ Projects
 * Human Following Robot using Kinect Sensor
-* Ocen Drone using Zigbee
+* Ocean Drone using Zigbee
 * Voice Note using STT(Speech to Text)
 * Fitravel - Personal Travel Planner using Fitness Data In Fitbit
 * Mini Turret using STM32
