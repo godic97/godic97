@@ -1,15 +1,15 @@
 # INCHEOL SHIN 😵
 
 
-## VALUES 🧠
+## Values 🧠
 * 머리는 차갑게 심장은 뜨겁게
 * 무아지경
 * 더도 말고 덜도 말고 딱 한 만큼만
 
-## BEFORE 🤸
+## Before 🤸
 * PNU CSE (2016.03 ~ 21.02)
 
-## CURRENT 🏃‍♂️
+## Current 🏃‍♂️
 * PNU AI (2021.03 ~ )
 * PNU MLB Lab (2020.07 ~ )
 
