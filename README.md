@@ -25,7 +25,7 @@
 
 ## 📽️ Projects
 * Human Following Robot using Kinect Sensor
-* Ocene Drone using Zigbee
+* Ocen Drone using Zigbee
 * Fitravel - Personal Travel Planner using Fitness Data In Fitbit
 * HOTBuS - Hakathon Online Team BUilding System
 * PNU CSE Notice Board crawler in KAKAO TALK
