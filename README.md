@@ -28,7 +28,7 @@
 * Ocen Drone using Zigbee
 * Fitravel - Personal Travel Planner using Fitness Data In Fitbit
 * HOTBuS - Hakathon Online Team BUilding System
-* PNU CSE Notice Board crawler in KAKAO TALK
+* PNU CSE Notice Board Crawling Messenger in KAKAO TALK
 * Korean Bussiness Name Generator using LSTM
 * Aptamer-Protein Interaction Prediction using Transformer
 
