@@ -4,17 +4,18 @@
 ## 🧠 Values 
 * Cold Head, Warm Heart
 * 無所不爲
+* What Doesn't Kill You Makes You Stronger
 
 ## 🥅 Goals
 * Love & Peace
 * Papers in SCI
 * A Head of Dragon
 
-## 🤸 Before 
+## 🤸 I was in 
 * PNU CSE (2016.03 ~ 2021.02)
 * PNU MCRG(MicroComputer Research Group) (2016.03 ~ 2021.02)
 
-## 🏃‍♂️ Current 
+## 🏃‍♂️ I'm in
 * PNU AI (2021.03 ~ )
 * PNU MLB Lab (2020.07 ~ )
 
