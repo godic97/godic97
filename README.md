@@ -25,6 +25,7 @@
 * PNU CSE Notice Board Crawling Messenger in KAKAO TALK
 * Korean Bussiness Name Generator using LSTM
 * Aptamer-Protein Interaction Prediction using Transformer
+* Protein Sequence Encoder for Sencondary Strurctural Representation using a Pretrained Model
 
 ## GitHub stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godic97)](https://github.com/깃허브아이디/github-readme-stats)
