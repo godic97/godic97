@@ -24,8 +24,8 @@
 * HOTBuS - Hackathon Online Team BUilding System
 * PNU CSE Notice Board Crawling Messenger in KAKAO TALK
 * Korean Bussiness Name Generator using LSTM
-* Aptamer-Protein Interaction Prediction using Transformer
-* Protein Sequence Encoder for Sencondary Strurctural Representation using a Pretrained Model
+* Aptamer-Protein Interaction Prediction using Transformer(IEEE BigComp 2021 Workshop paper)
+* Protein Sequence Encoder for Sencondary Strurctural Representation using a Pretrained Model(ISMB 2022 Poster)
 
 ## GitHub stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godic97)](https://github.com/깃허브아이디/github-readme-stats)
