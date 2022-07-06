@@ -24,7 +24,7 @@
 * HOTBuS - Hackathon Online Team BUilding System
 * PNU CSE Notice Board Crawling Messenger in KAKAO TALK
 * Korean Bussiness Name Generator using LSTM
-* Aptamer-Protein Interaction Prediction using Transformer(_IEEE BigComp 2021 Workshop paper_)
+* Aptamer-Protein Interaction Prediction using Transformer(_IEEE BigComp 2022 Workshop paper_)
 * Protein Sequence Encoder for Sencondary Strurctural Representation using a Pretrained Model(_ISMB 2022 Poster_)
 
 ## GitHub stats
