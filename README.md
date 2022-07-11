@@ -21,7 +21,7 @@
 * Voice Note using STT(Speech to Text)
 * Fitravel - Personal Travel Planner using Fitness Data in Fitbit
 * Mini Turret using STM32
-* HOTBuS - Hackathon Online Team BUilding System
+* HOTBuS - Hackathon Online Team Building System
 * PNU CSE Notice Board Crawling Messenger in KAKAO TALK
 * Korean Bussiness Name Generator using LSTM
 * Aptamer-Protein Interaction Prediction using Transformer(_IEEE BigComp 2022 Workshop paper_)
