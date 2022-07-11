@@ -18,7 +18,7 @@
 ## 📽️ Projects
 * Human Following Robot using Kinect Sensor
 * MCRG Ocean Drone using Zigbee
-* Voice Note using STT(Speech to Text)
+* Voice Note using STT (Speech to Text)
 * Fitravel - Personal Travel Planner using Fitness Data in Fitbit
 * Mini Turret using STM32
 * HOTBuS - Hackathon Online Team Building System
