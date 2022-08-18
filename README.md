@@ -3,7 +3,6 @@
 
 ## 🧠 Values 
 * Cold Head, Warm Heart
-* 無所不爲
 * What Doesn't Kill You Makes You Stronger
 
 ## 🥅 Goals
