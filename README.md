@@ -21,7 +21,7 @@
 * Fitravel - Personal Travel Planner using Fitness Data in Fitbit
 * Mini Turret using STM32
 * HOTBuS - Hackathon Online Team Building System
-* PNU CSE Notice Board Crawling Messenger in KAKAO TALK
+* [**PNU CSE Notice Board Crawling Messenger in KAKAO TALK**](https://pf.kakao.com/_pjiQb)
 * Korean Bussiness Name Generator using LSTM
 * Aptamer-Protein Interaction Prediction using Transformer (_IEEE BigComp 2022 Workshop paper_)
 * Protein Sequence Encoder for Sencondary Strurctural Representation using a Pretrained Model (_ISMB 2022 Poster_)
