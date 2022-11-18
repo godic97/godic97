@@ -2,7 +2,7 @@
 
 
 ## 🧠 Values 
-* Cold Head, Warm Heart
+* The Engineer, not Coder
 * What Doesn't Kill You Makes You Stronger
 
 ## 🥅 Goals
