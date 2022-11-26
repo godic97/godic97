@@ -19,7 +19,7 @@
 * MCRG Ocean Drone using Zigbee
 * Voice Note using STT (Speech to Text)
 * Fitravel - Personal Travel Planner using Fitness Data in Fitbit
-* Mini Turret using STM32
+* [**Mini Turret using STM32**](https://github.com/godic97/Embedded-System-Design-and-Lab)
 * HOTBuS - Hackathon Online Team Building System
 * [**PNU CSE Notice Board Crawling Messenger in KAKAO TALK**](https://pf.kakao.com/_pjiQb)
 * Korean Bussiness Name Generator using LSTM
