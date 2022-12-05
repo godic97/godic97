@@ -18,7 +18,7 @@
 * Human Following Robot using Kinect Sensor
 * [**MCRG Ocean Drone using Zigbee**](https://github.com/godic97/MCRG-OceanDrone)
 * Voice Note using STT (Speech to Text)
-* [**Fitravel - Personal Travel Planner using Fitness Data in Fitbit**](https://github.com/godic97/Fitravel)
+* [**Fitravel - Personal Travel Planner using Fitness Data in Fitbit**](https://github.com/godic97/Fitravel) (_AngelHack 2018 in San Fracisco_)
 * [**Mini Turret using STM32**](https://github.com/godic97/Embedded-System-Design-and-Lab)
 * [**HOTBuS - Hackathon Online Team Building System**](https://pnuswedu.org/02_team/02team.php)
 * [**PNU CSE Notice Board Crawling Messenger in KAKAO TALK**](https://pf.kakao.com/_pjiQb)
