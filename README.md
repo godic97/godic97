@@ -7,8 +7,7 @@
 
 ## 🥅 Goals
 * Love & Peace
-* Papers in SCI
-* A Head of Dragon
+* Finding why I live
 
 ## 💻 Tech Stack 
 
