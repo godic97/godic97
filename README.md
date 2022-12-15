@@ -3,7 +3,8 @@
 
 ## 🧠 Values 
 * The Engineer, not Coder
-* What Doesn't Kill You Makes You Stronger
+* What doesn't kill you makes you stronger
+* The important is the uncrushable mind
 
 ## 🥅 Goals
 * Love & Peace
