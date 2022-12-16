@@ -8,7 +8,6 @@
 
 ## 🥅 Goals
 * Love & Peace
-* Finding why I live
 
 ## 💻 Tech Stack 
 
