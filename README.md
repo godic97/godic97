@@ -24,6 +24,7 @@
 * [**Korean Shop Name Generator using Markov Chain**](https://github.com/godic97/Intelligent-Korean-Text-Generation-System)
 * [**Aptamer-Protein Interaction Prediction using Transformer**](https://ieeexplore.ieee.org/document/9736493) (_IEEE BigComp 2022_)
 * [**Protein Sequence Encoder for Sencondary Strurctural Representation using a Pretrained Model**](https://www.iscb.org/ismb2022-program/posters) (_ISMB 2022 Poster_)
+* [**'I heard that there is a private repository here...'**](https://www.iscb.org/ismb2022-program/posters)
 
 ## GitHub stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godic97)](https://github.com/깃허브아이디/github-readme-stats)
