@@ -23,7 +23,7 @@
 * [**PNU CSE Notice Board Crawling Messenger in KAKAO TALK**](https://pf.kakao.com/_pjiQb)
 * [**Korean Shop Name Generator using Markov Chain**](https://github.com/godic97/Intelligent-Korean-Text-Generation-System)
 * [**Aptamer-Protein Interaction Prediction using Transformer**](https://ieeexplore.ieee.org/document/9736493) (_IEEE BigComp 2022_)
-* [**Protein Sequence Encoder for Sencondary Strurctural Representation using a Pretrained Model**](https://www.iscb.org/ismb2022-program/posters) (_ISMB 2022 Poster_)
+* [**Protein Sequence Encoder for Sencondary Strurctural Representation using a Pretrained Model**](https://www.iscb.org/ismb2022-program/posters) (_ISMB 2022_)
 * [**I heard that there's a private repository here...**](https://github.com/godic97/AptaTrans)
 
 ## GitHub stats
