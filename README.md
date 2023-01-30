@@ -2,7 +2,7 @@
 
 
 ## 🧠 Values 
-* The Engineer, not Coder
+* Ordeals but no failures
 * What doesn't kill you makes you stronger
 * The important thing is the uncrushable mind
 
