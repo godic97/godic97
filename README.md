@@ -1,6 +1,6 @@
 # INCHEOL SHIN 😵
 
-## 🧠 Position
+## 🏢 Position
 * AI researcher at HD Hyundai XiteSolution (2023.05~)
 
 ## 🧠 Values 
