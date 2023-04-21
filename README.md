@@ -6,7 +6,6 @@
 ## 🧠 Values 
 * Ordeals but no failures
 * What doesn't kill you makes you stronger
-* The important thing is the uncrushable mind
 
 ## 🥅 Goals
 * Love & Peace
