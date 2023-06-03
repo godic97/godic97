@@ -2,7 +2,7 @@
 
 ## 🏢 Position
 * AI researcher at HD Hyundai XiteSolution (2023.05~)
-* Student researcher at PNU MLB (2020.07~2023.02)
+* Student researcher at [PNU MLB](https://dmb.pusan.ac.kr/dmb/index.do) (2020.07~2023.02)
 
 ## 🧠 Values 
 * Ordeals but no failures
