@@ -6,7 +6,6 @@
 * Student researcher at [PNU MLB](https://dmb.pusan.ac.kr/dmb/index.do) (2020.07~2023.02)
 
 ## 🧠 Values 
-* Ordeals but no failures
 * What doesn't kill you makes you stronger
 
 ## 🥅 Goals
