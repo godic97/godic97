@@ -2,7 +2,7 @@
 
 ## 🏢 Position
 * AI Engineer at HD KSOE (2023.07~)
-* AI researcher at HD Hyundai XiteSolution (2023.05~2023.06)
+* AI researcher at HD Hyundai XiteSolution (2023.05~)
 * Student researcher at [PNU MLB](https://dmb.pusan.ac.kr/dmb/index.do) (2020.07~2023.02)
 
 ## 🧠 Values 
