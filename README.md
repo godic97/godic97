@@ -7,9 +7,11 @@
 
 ## 🧠 Values 
 * What doesn't kill you makes you stronger
+* Deep and Wide
 
 ## 🥅 Goals
 * Love & Peace
+* Super rich
 
 ## 💻 Tech Stack 
 
