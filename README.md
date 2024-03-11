@@ -1,8 +1,8 @@
 # INCHEOL SHIN 😵
 
 ## 🏢 Position
-* AI researcher at Autonomous AI Lab, HD KSOE & HD Hyundai XiteSolution (2023.05~)
-* Student researcher at [PNU MLB](https://dmb.pusan.ac.kr/dmb/index.do) (2020.07~2023.02)
+* AI research engineer @ Autonomous AI Lab, HD KSOE & HD Hyundai XiteSolution (2023.05~)
+* Student researcher @ [PNU MLB](https://dmb.pusan.ac.kr/dmb/index.do) (2020.07~2023.02)
 
 ## 🧠 Values 
 * What doesn't kill you makes you stronger
