@@ -1,7 +1,7 @@
 # INCHEOL SHIN 😵
 
 ## 🏢 Position
-* AI research engineer @ Autonomous AI Lab, HD KSOE & HD Hyundai XiteSolution (2023.05~)
+* AI research engineer @ Autonomous AI Lab of HD KSOE & HD Hyundai XiteSolution (2023.05~)
 * Student researcher @ [PNU MLB](https://dmb.pusan.ac.kr/dmb/index.do) (2020.07~2023.02)
 
 ## 🧠 Values 
