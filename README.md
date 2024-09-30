@@ -7,6 +7,7 @@
 ## 🧠 Values 
 * What doesn't kill you makes you stronger
 * Deep and Wide
+* Good Artists Copy, Great Artists Steal
 
 ## 🥅 Goals
 * Love & Peace
