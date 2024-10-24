@@ -5,9 +5,10 @@
 * Student researcher @ [PNU MLB](https://dmb.pusan.ac.kr/dmb/index.do) (2020.07~2023.02)
 
 ## 🧠 Values 
-* What doesn't kill you makes you stronger
-* Deep and Wide
+* What doesn't kill you makes you stronger.
+* Deep and Wide.
 * Good Artists Copy, Great Artists Steal
+* The ground I wandered becomes the ground I claim.
 
 ## 🥅 Goals
 * Love & Peace
