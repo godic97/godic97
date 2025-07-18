@@ -12,7 +12,6 @@
 
 ## 🥅 Goals
 * Love & Peace
-* Super rich
 
 ## 💻 Tech Stack 
 
