@@ -8,7 +8,6 @@
 * What doesn't kill you makes you stronger.
 * Deep and Wide.
 * Good Artists Copy, Great Artists Steal
-* The ground I wandered becomes the ground I claim.
 
 ## 🥅 Goals
 * Love & Peace
