@@ -1,7 +1,9 @@
 # INCHEOL SHIN 😵
 
 ## 🏢 Position
-* AI research engineer @ Physical AI Dept. of HD KSOE (2023.05~)
+* **AI Research Engineer** @ **HD KSOE**, AI Center (2023.05 ~ Present)
+  * **Current:** AI Platform Dept.
+  * **History:** LandWise AI Team → Autonomous AI Lab → Robotic AI Lab → Physical AI Dept. → **AI Platform Dept.**
 * Student researcher @ [PNU MLB](https://dmb.pusan.ac.kr/dmb/index.do) (2020.07~2023.02)
 
 ## 🧠 Values 
