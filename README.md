@@ -1,4 +1,4 @@
-# INCHEOL SHIN 😵
+# INCHEOL SHIN 🐳
 
 ## 🏢 Position
 * **AI Research Engineer** @ **HD KSOE**, AI Center (2023.05 ~ Present)
